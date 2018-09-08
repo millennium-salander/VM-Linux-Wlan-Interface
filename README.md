@@ -2,7 +2,9 @@
 
 <br>
 
-<h4>Linux wireless compatibility package which provides- Linux wireless subsystem enhancements for kernels 2.6.24 and above</h4>
+<p>Linux Wlan Interface Solution</p>
+
+<h5>Linux wireless compatibility package which provides- Linux wireless subsystem enhancements for kernels 2.6.24 and above<h5>
 
 <strong>Usage:</strong>
 
